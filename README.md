@@ -1,2 +1,3 @@
 # Harshitcode-demo
 This is my first Git Repository
+Author - Harshit singh
